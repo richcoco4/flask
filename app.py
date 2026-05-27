@@ -13,7 +13,7 @@ def aa():
     return "aa"
 
 @app.route("/bb")
-def aa():
+def bb():
     print("bb")
     return "bb"
 
